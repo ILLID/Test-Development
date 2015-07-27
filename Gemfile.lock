@@ -22,7 +22,11 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   capistrano (~> 3.4)
   capistrano-slackify (~> 2.2.0)
+
+BUNDLED WITH
+   1.10.6
