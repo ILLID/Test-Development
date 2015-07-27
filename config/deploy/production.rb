@@ -4,7 +4,7 @@
 
 set :stage, :production
 set :stage_url, "http://www.spotler.ru/rvr"
-server "192.185.4.120", user: "illidan8", roles: %w{web app db}
+server "192.185.4.120:21", user: "illidan8", roles: %w{web app db}
 set :deploy_to, "/www/rvr"
 
 ############################################
