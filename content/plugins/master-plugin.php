@@ -10,3 +10,6 @@ function master_plugin() {
     return true;
 }
 
+function master_branch_plugin() {
+    return true;
+}
