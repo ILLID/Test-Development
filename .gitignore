@@ -3,6 +3,8 @@
 *.log
 *.sql
 *.sqlite
+.idea/*
+*.idea/*
 database.yml
 
 # OS generated files #
