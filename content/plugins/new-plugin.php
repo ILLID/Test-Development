@@ -11,6 +11,6 @@ function new_func() {
     return true;
 }
 
-function new_master_func() {
+
     return true;
 }
